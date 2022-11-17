@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm pinto</h1>
-<h3 align="center">A passionate frontend developer from the New York Metropolitan Area</h3>
+<h3 align="center">A passionate full-stack dev from the New York Metropolitan Area</h3>
 
 - 🔭 I’m currently working on [HomeTender](https://github.com/jonpintodev/HomeTender)
 
